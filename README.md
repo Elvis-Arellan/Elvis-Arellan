@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Elvis</h1>
-<h3 align="center">A passionate software programmer from Peru</h3>
+<h3 align="center">A passionate systems engineering student from Peru</h3>
 
 ## About me
 
