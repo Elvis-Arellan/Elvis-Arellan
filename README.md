@@ -21,6 +21,8 @@ const ELVIS = {
     "Figma",
     "Git",
     "Netlify",
+    "Apache NetBeans",
+    "Server Management Studio"
   ],
   learning: "Spring Boot",
   challenge:
