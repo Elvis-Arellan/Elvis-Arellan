@@ -26,7 +26,7 @@ const ELVIS = {
   ],
   learning: "Spring Boot",
   challenge:
-    "I am working with fullstack proyect to dominate backend",
+    "I am working on a full stack project to improve my skills",
   email: "lbis8.tech@gmail.com",
   funFact: "I like dogs",
   portfolio: "https://coming soon",
