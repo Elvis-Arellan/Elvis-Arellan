@@ -2,7 +2,9 @@
 <p align="center">
   Estudiante de Ingeniería de Sistemas 📘 | Maravillado por el desarrollo web y software 💻 | Explorando nuevas tecnologías 🚀
 </p>
-
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="fast code">
+</p>
 ---
 
 ### 👨‍🎓 Sobre mí
