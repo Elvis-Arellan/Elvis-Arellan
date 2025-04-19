@@ -2,11 +2,12 @@
 <p align="center">
   Estudiante de Ingeniería de Sistemas 📘 | Maravillado por el desarrollo web y software 💻 | Explorando nuevas tecnologías 🚀
 </p>
+
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="fast code">
 </p>
----
 
+---
 ### 👨‍🎓 Sobre mí
 
 - 🎓 Estudio **Ingeniería de Sistemas**, actualmente en el **5to ciclo**.
@@ -53,11 +54,8 @@
 ### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvis-arellan/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](lbis8.tech@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:lbis8.tech@gmail.com)
+
 
 ---
-
-<p align="center">
-  ¡Gracias por visitar mi perfil! ✨
-</p>
 
