@@ -10,9 +10,8 @@
 ---
 ### 👨‍🎓 Sobre mí
 
-- 🎓 Estudio **Ingeniería de Sistemas**, actualmente en el **5to ciclo**.
+- 🎓 Estudio **Ingeniería de Sistemas**, actualmente en el **6to ciclo**.
 - 🌱 Aprendiendo frontend, diseño UI/UX y tecnologías modernas para el desarrollo web.
-- 🔍 Me encanta programar con Java y trabajar con bases de datos.
 - 📍 Vivo en Perú 🇵🇪.
 
 ---
