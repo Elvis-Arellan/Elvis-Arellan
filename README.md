@@ -21,7 +21,7 @@
 
 ✅ **Despliegue AWS Cloud** - Aplicación empresarial en producción  
 ✅ **Arquitectura EC2 + RDS** - Infraestructura escalable  
-✅ **CI/CD Manual a Cloud** - Pipeline completo de desarrollo a producción  
+ 
 
 ---
 
