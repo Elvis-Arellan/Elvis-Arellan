@@ -11,7 +11,7 @@
 ## 👨‍🎓 Sobre mí
 
 - 🎓 Estudio **Ingeniería de Sistemas**, actualmente en el **7mo ciclo**.
-- 🌱 **Especialización:** Desarrollo Backend con Java y despliegue en la nube AWS.
+- 🌱  Desarrollo Backend con Java 
 - 🚀 **Proyecto Destacado:** Despliegue completo de aplicación JSP/Servlets + MySQL en AWS EC2.
 - 📍 Vivo en Perú 🇵🇪.
 
