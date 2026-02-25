@@ -60,19 +60,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
 
-## 🌟 Proyectos Destacados
 
-### 🏦 Sistema de Créditos - AWS Deployment
-**Tecnologías:** Java, JSP, Servlets, MySQL, AWS EC2, RDS, Tomcat  
-**Descripción:** Aplicación web completa desplegada en AWS Cloud con arquitectura escalable.  
-**Logros:**
-- ✅ Despliegue en AWS EC2 (Amazon Linux 2023)
-- ✅ Base de datos en RDS MySQL
-- ✅ Configuración Tomcat 9 + Java 11
-- ✅ Seguridad con Security Groups
-- ✅ Acceso 24/7 desde cualquier dispositivo
-
-**URL de Producción:** `http://3.144.125.166:8080/creditos/`
 
