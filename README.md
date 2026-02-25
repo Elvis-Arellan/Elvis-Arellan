@@ -15,13 +15,7 @@
 - 🚀 **Proyecto Destacado:** Despliegue completo de aplicación JSP/Servlets + MySQL en AWS EC2.
 - 📍 Vivo en Perú 🇵🇪.
 
----
 
-## 🏆 Certificaciones y Logros Recientes
-
-✅ **Despliegue AWS Cloud** - Aplicación empresarial en producción  
-✅ **Arquitectura EC2 + RDS** - Infraestructura escalable  
- 
 
 ---
 
@@ -52,13 +46,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![MobaXterm](https://img.shields.io/badge/MobaXterm-000000?style=flat&logo=windows-terminal&logoColor=white)
 
----
-
-## 🚀 Tecnologías que estoy aprendiendo
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
 
