@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy Elvis Arellan</h1>
 <p align="center">
-  Estudiante de Ingeniería de Sistemas 📘 | Desarrollador Full-Stack en formación 💻 | Especialista en Despliegue Cloud ☁️
+  Estudiante de Ingeniería de Sistemas 📘 | Desarrollador Full-Stack en formación 💻 
 </p>
 
 <p align="center">
